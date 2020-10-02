@@ -178,7 +178,7 @@ sprites
 
 This folder contains the official B&W sprites on top of custom sprites designed by the [Smogon community](https://www.smogon.com/)
 
-- The sprites with IDs ranging from 810 to 898 are thus not official. You can find the source of these sprites at this [Smogon thread](https://www.smogon.com/forums/threads/sword-shield-sprite-project.3647722/) and also at this [Google Sheet](https://docs.google.com/spreadsheets/d/1acgzAjh0dnFRQnjZu8kSjS177rKCzpFfEHRLtwuuXRU/edit#gid=0). We thank leParagon, Blaquaza, TheAetherPlayer, G.E.Z., KingOfThe-X-Roads, Spook, Cynda, Involuntary Twitch, mjco, Z-nogyroP, PumpkinPastel, RadicalCharizard and HM100 who are the spriters that created these custom B&W sprites
+- The sprites with IDs ranging from 722 to 898 are thus not official. You can find the source of these sprites at these [Smogon](https://www.smogon.com/forums/threads/sword-shield-sprite-project.3647722/) [threads](https://www.smogon.com/forums/threads/sun-moon-sprite-project.3577711/) and also at these [Google](https://docs.google.com/spreadsheets/d/1acgzAjh0dnFRQnjZu8kSjS177rKCzpFfEHRLtwuuXRU/edit#gid=0) [Sheets](https://docs.google.com/spreadsheets/d/1FMcHbSKEWZc7v2Ur4cyJjT_NhO0gqXyU9kDhsOQhlBQ/edit#gid=0). We thank leParagon, Blaquaza, TheAetherPlayer, G.E.Z., KingOfThe-X-Roads, Spook, Cynda, Involuntary Twitch, mjco, Z-nogyroP, PumpkinPastel, RadicalCharizard, N-Kin, Zerudez, MyMarshlands, Wobblebuns, princessofmusic, aXl, fishbowlsoul90, HealnDeal, Espeon Scientist, AMVictory and Mega-Pokebattlerz who are the spriters that created these custom B&W sprites
 
 | Front | Back | Front female | Front shiny | Back female | Back shiny | Shiny female |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -243,4 +243,4 @@ Animated
 
 ## Thanks
 
-We would like to thank the [Smogon community](https://www.smogon.com/) for allowing us to use and serve their custom B&W-style sprites for the Pokemon 810-898. Check out their free and open-source Pokemon Battle Simulator at [Pokémon Showdown](https://github.com/smogon/pokemon-showdown)
+We would like to thank the [Smogon community](https://www.smogon.com/) for allowing us to use and serve their custom B&W-style sprites for the Pokemon 722-898. Check out their free and open-source Pokemon Battle Simulator at [Pokémon Showdown](https://github.com/smogon/pokemon-showdown)
